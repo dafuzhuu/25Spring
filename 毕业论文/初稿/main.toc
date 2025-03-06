@@ -1,0 +1,24 @@
+\contentsline {chapter}{\numberline {第一章\hspace {.3em}}使用说明}{1}{chapter.1}%
+\contentsline {section}{\numberline {1.1}环境配置}{1}{section.1.1}%
+\contentsline {section}{\numberline {1.2}编译}{1}{section.1.2}%
+\contentsline {section}{\numberline {1.3}使用模版}{1}{section.1.3}%
+\contentsline {subsection}{\numberline {1.3.1}示例论文}{1}{subsection.1.3.1}%
+\contentsline {subsection}{\numberline {1.3.2}自定义模版}{1}{subsection.1.3.2}%
+\contentsline {chapter}{\numberline {第二章\hspace {.3em}}使用示例}{3}{chapter.2}%
+\contentsline {section}{\numberline {2.1}二级标题}{3}{section.2.1}%
+\contentsline {subsection}{\numberline {2.1.1}三级标题}{3}{subsection.2.1.1}%
+\contentsline {subsubsection}{\numberline {2.1.1.1}四级标题}{3}{subsubsection.2.1.1.1}%
+\contentsline {section}{\numberline {2.2}图表}{3}{section.2.2}%
+\contentsline {subsection}{\numberline {2.2.1}插图}{3}{subsection.2.2.1}%
+\contentsline {subsection}{\numberline {2.2.2}表格}{4}{subsection.2.2.2}%
+\contentsline {section}{\numberline {2.3}画图}{4}{section.2.3}%
+\contentsline {section}{\numberline {2.4}公式}{4}{section.2.4}%
+\contentsline {section}{\numberline {2.5}算法}{5}{section.2.5}%
+\contentsline {chapter}{参考文献}{7}{chapter*.8}%
+\contentsline {chapter}{附录}{9}{chapter*.9}%
+\contentsline {section}{\numberline {A.1}附表}{9}{section.3.1}%
+\contentsline {section}{\numberline {A.2}厦门大学本科毕业论文（设计）规范摘要}{9}{section.3.2}%
+\contentsline {subsection}{\numberline {A.2.1}附录三级标题}{11}{subsection.3.2.1}%
+\contentsline {subsubsection}{\numberline {A.2.1.1}附录四级标题}{11}{subsubsection.3.2.1.1}%
+\contentsline {chapter}{致谢}{13}{chapter*.11}%
+\contentsfinish 
